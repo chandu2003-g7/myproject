@@ -1,3 +1,3 @@
-I had given my code files in zip file .it consists of HTML, CSS, JavaScipt.
+I had given my code files in zip file .it consists of HTML, CSS, JavaScipt codes in the zip file.
 I had Developed Wikipedia search application where user can search and view their results and can see detailed explanation in Wikipedia by clicking on the specific result. Displayed list of search results with HTML list elements with hyperlink as url, styled list using CSS, Bootstrap and implemented responsiveness using Flex properties and CSS Box model. Fetched search results from server asynchronously using fetch GET HTTP API call. When a user clicks on a particular result, it opens the website in a new tab by using the target attribute of the anchor tag in HTML.
 here you can try it out at https://searchworld.ccbp.tech/
